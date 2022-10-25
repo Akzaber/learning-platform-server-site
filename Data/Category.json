@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Programming"
+  },
+  {
+    "id": "02",
+    "name": "Data Structures"
+  },
+  {
+    "id": "03",
+    "name": "Algorithms"
+  },
+  {
+    "id": "04",
+    "name": "DataBase Management System"
+  },
+  {
+    "id": "05",
+    "name": "Operating System"
+  },
+  {
+    "id": "06",
+    "name": "Computer Networks"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "63578483dbf100761afb4739",
+    "category_id": "01",
+    "picture": "https://www.codecademy.com/resources/blog/content/images/2020/07/what-is-a-programming-language.png",
+    "name": "Programming",
+    "title": "Programming is a collaboration between humans and Computers",
+    "details": "Programming is a writing code a set of instructions to be Interpreted and executed by a computer or another electronic device. These instructions can create programs and tell applications how to operate of funtion. People who program are reffered to as programmers and write their code using a programming language."
+  },
+  {
+    "_id": "635784834674ea76ecef3f1b",
+    "category_id": "02",
+    "picture": "https://w10.naukri.com/mailers/2022/naukri-learning/what-is/What-is-Data-Structures-and-Algorithms.jpg",
+    "name": "Data Structures",
+    "title": "Data structure is a storage that is used to store and organize data",
+    "details": "Data structure is a storage that is used to store and organize data. It is a way of arranging data on a computer so that it can be accessed and updated efficiently.Depending on your requirement and project, it is important to choose the right data structure for your project. For example, if you want to store data sequentially in the memory, then you can go for the Array data structure."
+  },
+  {
+    "_id": "63578483bff6a8ebc134adc7",
+    "category_id": "03",
+    "picture": "https://pandorafms.com/blog/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png",
+    "name": "Algorithms",
+    "title": "A set of instructions for solving a problem or accomplishing a task",
+    "details": "An algorithm is a set of step-by-step procedures, or a set of rules to follow, for completing a specific task or solving a particular problem. The word algorithm was first coined in the 9th century. Algorithms are all around us. Common examples include: the recipe for baking a cake, the method we use to solve a long division problem, the process of doing laundry, and the functionality of a search engine are all examples of an algorithm."
+  },
+  {
+    "_id": "6357848332060ea7ea61311f",
+    "category_id": "04",
+    "picture": "https://www.itsguru.com/wp-content/uploads/2020/05/The-Considerations-And-Perks-Of-Choosing-A-DBMS-ITs-Guru.png",
+    "name": "Database Management System",
+    "title": "Database management systems are software systems used to manage and manipulate data in a database.",
+    "details": "Database management system is a software which is used to manage the database. For example: MySQL, Oracle, etc are a very popular commercial database which is used in different applications.DBMS provides an interface to perform various operations like database creation, storing data in it, updating data, creating a table in the database and a lot more.It provides protection and security to the database. In the case of multiple users, it also maintains data consistency."
+  },
+  {
+    "_id": "63578483aa8d66714284baf7",
+    "category_id": "05",
+    "picture": "https://www.ionos.com/digitalguide/fileadmin/DigitalGuide/Teaser/operating-system-t.jpg",
+    "name": "Operating System",
+    "title": "An Operating System is an interface between a computer user and computer hardware",
+    "details": "Operating systems usually come pre-loaded on any computer you buy. Most people use the operating system that comes with their computer, but it's possible to upgrade or even change operating systems. The three most common operating systems for personal computers are Microsoft Windows, macOS, and Linux."
+  },
+  {
+    "_id": "63578483c6f9a73e3c983008",
+    "category_id": "06",
+    "picture": "https://blog.udemy.com/wp-content/uploads/2014/06/shutterstock_91234700.jpg",
+    "name": "Computer Networks",
+    "title": "A computer network is defined as a system that connects two or more computing devices for transmitting and sharing information",
+    "details": "A computer network is a set of computers sharing resources located on or provided by network nodes. The computers use common communication protocols over digital interconnections to communicate with each other. These interconnections are made up of telecommunication network technologies, based on physically wired, optical, and wireless radio-frequency methods that may be arranged in a variety of network topologies."
+  }
+]
